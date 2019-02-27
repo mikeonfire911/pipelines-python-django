@@ -1,3 +1,4 @@
+[![Build Status](https://axausvstmigrationtestenvironment.visualstudio.com/Mike%20Test/_apis/build/status/Mike%20Test-CI?branchName=master)](https://axausvstmigrationtestenvironment.visualstudio.com/Mike%20Test/_build/latest?definitionId=3&branchName=master)
 # Sample Python app for Azure Pipelines docs
 
 For information on how to use this repository, see [Python](https://docs.microsoft.com/azure/devops/pipelines/languages/python).
